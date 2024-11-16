@@ -67,9 +67,9 @@ Enable **Test Mode** to run predefined game scenarios and validate game mechanic
 
 ## File Structure
 
-•	main.py: Main game script, includes gameplay logic and test scenarios.
+- main.py: Main game script, includes gameplay logic and test scenarios.
 
 ## Acknowledgments
 
-•	This game is inspired by classic blackjack, with custom rules for the Five Card Trick twist.
-•	The development of this project was inspired by course “Master Python by building 100 projects in 100 days”, Dr. Angela Yu.
+- This game is inspired by classic blackjack, with custom rules for the Five Card Trick twist.
+- The development of this project was inspired by course “Master Python by building 100 projects in 100 days”, Dr. Angela Yu.
